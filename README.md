@@ -7,5 +7,6 @@ Nobody will own any reserves.
 That's it. Well maybe some other shit but TBA...
 
 Symbol: $GMORNN (bc someone already took $MORN... )
+Market: D6ca2PqdmoeFGmwm6ryokFXxCEBzgRRNVXBrNqbywnqZ
 
 ![morn-paper](https://user-images.githubusercontent.com/98057523/150213975-12d76f0e-4e84-40f3-8c03-d02d9bf74dc3.png)
