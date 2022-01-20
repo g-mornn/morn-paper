@@ -2,10 +2,6 @@
 
 There is a 10,000 Total Supply. 
 
-All tokens will be airdropped [see @g_mornn on Twitter] except the very few that will be locked in liquidty forever. 
-Nobody will own any reserves. 
-That's it. Well maybe some other shit but TBA...
-
 - Symbol: $GMORNN (bc someone already took $MORN... )
 - Token address: DiWunPY8GfsFthdDAwiRRtCgKCB5AEcFx9edDpxZoTyo
 - Market ID: D6ca2PqdmoeFGmwm6ryokFXxCEBzgRRNVXBrNqbywnqZ
