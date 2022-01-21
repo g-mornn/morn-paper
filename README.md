@@ -3,6 +3,7 @@
 There is a 10,000 Total Supply. 
 
 Symbol: $GMORNN
+
 Trade GMORNN/USDC on DEXLAB: http://tinyurl.com/dexlab-gmornn
 
 
