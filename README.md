@@ -5,6 +5,7 @@ There is a 10,000 Total Supply. That's the paper.
 
 Token Information:
 - Symbol: $GMORNN
+- Twitter: https://twitter.com/g_mornn
 - Solscan: https://solscan.io/token/DiWunPY8GfsFthdDAwiRRtCgKCB5AEcFx9edDpxZoTyo
 
 Trade / Swap: 
